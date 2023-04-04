@@ -1,0 +1,11 @@
+environment:
+  stateBackend: rocksdb
+
+sources:
+  mainInput:
+    broker: localhost:9092
+    topic: myTopic
+    group_id: 1234
+    name: main_input
+    unique_id: d168ffaa-3524-11ed-a261-0242ac120002
+

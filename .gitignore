@@ -1,0 +1,11 @@
+.idea
+.run
+.env
+dont_commit.sh
+./target
+realtime-platform-core.iml
+realtime-platform-core.ipr
+realtime-platform-core.iws
+dependency-reduced-pom.xml
+automation_resources/check_point/*
+automation_resources/save_point/*
